@@ -1,1 +1,6 @@
 uv==0.10.2
+flask
+gunicorn
+google-generativeai
+requests
+
